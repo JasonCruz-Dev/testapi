@@ -1,0 +1,19 @@
+{
+  "name": "coburn-test-api",
+  "version": "1.0.0",
+  "description": "Pulled an API off the link they shared, to be used for testing purposes for a test Coborn has me doing. Will delete repo soon as the test is turned in and reviewed.'",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonCruz-Dev/testapi.git"
+  },
+  "author": "Jason Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonCruz-Dev/testapi/issues"
+  },
+  "homepage": "https://github.com/JasonCruz-Dev/testapi#readme"
+}
